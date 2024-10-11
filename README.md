@@ -13,7 +13,8 @@ FastAPI-Modular-Boilerplate is a powerful starter template for developing scalab
 
 - 📁 Modular project structure
 - 🔒 Built-in authentication and authorization system
-- 📊 Preconfigured database connection using SQLAlchemy
+- 📊 Preconfigured database connection using asynchronous PostgreSQL with SQLAlchemy
+- ⚡ Asynchronous Alembic migrations
 - 🐳 Docker support for easy deployment
 - 🧪 Ready-to-use testing structure
 - 📝 Automatic API documentation generation
