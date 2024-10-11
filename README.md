@@ -2,10 +2,10 @@
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![GitHub stars](https://img.shields.io/github/stars/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/yourusername/FastAPI-Modular-Boilerplate/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/yourusername/FastAPI-Modular-Boilerplate/network)
-[![GitHub issues](https://img.shields.io/github/issues/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/yourusername/FastAPI-Modular-Boilerplate/issues)
-[![GitHub license](https://img.shields.io/github/license/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/yourusername/FastAPI-Modular-Boilerplate/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/ihor-vt/FastAPI-Modular-Boilerplate/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/ihor-vt/FastAPI-Modular-Boilerplate/network)
+[![GitHub issues](https://img.shields.io/github/issues/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/ihor-vt/FastAPI-Modular-Boilerplate/issues)
+[![GitHub license](https://img.shields.io/github/license/ihor-vt/FastAPI-Modular-Boilerplate.svg)](https://github.com/ihor-vt/FastAPI-Modular-Boilerplate/blob/main/LICENSE)
 
 FastAPI-Modular-Boilerplate is a powerful starter template for developing scalable web applications using FastAPI. Inspired by Django's best practices, this template offers a modular structure that ensures clear code organization and easy functionality expansion.
 
